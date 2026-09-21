@@ -1,0 +1,9 @@
+# robots.txt - NovaMarket
+User-agent: *
+Allow: /
+Disallow: /admin_console
+Disallow: /seller_dashboard
+Disallow: /api/private
+
+# Sitemap
+Sitemap: https://novamarket.fr/sitemap.xml

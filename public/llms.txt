@@ -1,0 +1,25 @@
+# NovaMarket - Marketplace Décentralisée & Tiers de Confiance
+> Plateforme e-commerce française de mise en relation entre créateurs, artisans indépendants vérifiés et acheteurs éco-responsables.
+
+## Informations Générales
+- Nom : NovaMarket
+- Société éditrice : NovaMarket SAS (RCS Paris B 891 034 912)
+- Siège : 14 Rue des Céramistes, 75011 Paris, France
+- Contact : contact@novamarket.fr | Tél : +33 (0)1 84 79 12 34
+- DPO (RGPD) : dpo@novamarket.fr
+
+## Architecture & Confiance
+- NovaTrust : Système de paiement séquestré (Escrow). Les fonds sont conservés jusqu'à réception conforme du colis par le client ou expiration du délai de rétractation.
+- Prestataires de paiement agréés PCI-DSS : Stripe (cartes bancaires) et Campay (Mobile Money).
+- Garantie légale de conformité : 2 ans (Articles L. 217-3 et suivants du Code de la consommation français).
+- Droit de rétractation : 14 jours calendaires sans justification requise (Art. L. 221-18 Code de la consommation).
+
+## Politiques Légales & Données (RGPD & CNIL)
+- Politique de Confidentialité : Conformité RGPD (Règlement UE 2016/679). Respect strict du principe de minimisation des données (Art. 5.1.c). Aucune revente de données personnelles.
+- Consentement Cookies : Conforme aux délibérations CNIL 2020-091/092 et Directive ePrivacy. Aucun cookie de pistage non-essentiel n'est déposé sans consentement actif préalable.
+- Exercice des Droits : Formulaire dédié et contact direct dpo@novamarket.fr pour accès, rectification, effacement ou portabilité sous 30 jours.
+
+## Accessibilité & Standards
+- Niveau de conformité : WCAG 2.1 niveau AA
+- Contrastes colorimétriques : Ratio minimal 4.5:1 sur texte standard, 3:1 sur texte agrandi
+- Support des technologies d'assistance : Sémantique HTML5 complète, repères ARIA et navigation clavier intégrale

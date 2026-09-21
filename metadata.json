@@ -1,0 +1,6 @@
+{
+  "name": "NovaMarket",
+  "description": "La Marketplace des Créateurs & Boutiques Indépendantes. Écosystème certifié NovaTrust avec boutiques partenaires, panier rapide et console vendeur.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
